@@ -62,6 +62,11 @@ header nav ul li a:hover {
   text-align: justify;
 }
 
+.row-2 img {
+  background-position: top right;
+  background-size: cover;
+  justify-content: right;
+}
 
 P a {
   background-color: blueviolet;
